@@ -1,30 +1,83 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
   <router-view/>
 </template>
 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* CSS Reset - by https://dev.to/hankchizljaw/a-modern-css-reset-6p3 */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-nav {
-  padding: 30px;
+ul[class],
+ol[class] {
+  padding: 0;
+}
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
 
-    &.router-link-exact-active {
-      color: #42b983;
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  font-family: 'Montserrat', 'Open Sans', 'Lato', sans-serif !important;
+
+  #app {
+    min-height: 100vh;
+
+    .page {
+      min-height: 100vh;
     }
+  }
+}
+
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
 </style>
