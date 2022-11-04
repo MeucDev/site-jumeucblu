@@ -1,0 +1,16 @@
+Options +FollowSymLinks -MultiViews
+
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  RewriteCond %{SERVER_PORT} 80
+  RewriteRule ^(.*)$ https://www.jumeucblu.com.br/$1 [R,L]
+
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(home|album|logo)?/?$ /index.html [L]
+</IfModule>
