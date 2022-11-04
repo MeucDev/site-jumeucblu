@@ -82,4 +82,18 @@ export default {
     }
   }
 }
+
+@media screen and (max-width:499px) {
+  .title {
+    flex-direction: column;
+
+    h2 {
+      margin-bottom: .5em;
+    }
+
+    .line {
+      display: none;
+    }
+  }
+}
 </style>

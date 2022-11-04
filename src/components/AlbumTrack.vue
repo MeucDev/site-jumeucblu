@@ -84,4 +84,16 @@ export default {
     }
   }
 }
+
+@media screen and (max-width:499px) {
+  .track {
+    flex-direction: column;
+    text-align: center;
+    padding: 1em 1.4em .5em;
+
+    .track-links {
+      margin-top: .5em;
+    }
+  }
+}
 </style>

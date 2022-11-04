@@ -7,7 +7,7 @@
         <h1>Além de Mim</h1>
       </div>
       <AlbumVolume
-        title="Volume 1"
+        title="Playlist"
         spotifyHref="https://open.spotify.com/album/0vd4KFioHaOnFb34WRrNZQ?si=kokLKU1iRI6EJDFcvdKKxw"
         deezerHref="https://deezer.page.link/tepjmPNfaW534h2t9"
         youtubeHref="https://youtube.com/playlist?list=PLpBwWxqDK_6IYKGcgbeQVsccrB7vrxgxa"
@@ -107,6 +107,40 @@ export default {
     display: block;
     margin: 4em auto 2em;
     max-width: 40%;
+  }
+}
+
+@media screen and (max-width:699px) {
+  .content {
+    .cover {
+      flex-direction: column;
+      align-items: center;
+
+      img {
+        width: 100%;
+        max-width: 320px;
+        margin: 0 2em 3em;
+      }
+
+      h1 {
+        text-align: center;
+        line-height: 1.4em;
+      }
+    }
+  }
+}
+
+@media screen and (max-width:499px) {
+  .content {
+    .cover {
+      h1 {
+        font-size: 1.4em;
+      }
+    }
+
+    img.logo {
+      max-width: 60%;
+    }
   }
 }
 </style>
