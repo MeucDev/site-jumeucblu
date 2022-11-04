@@ -2,7 +2,7 @@
   <div class="asset col-md-4">
     <div class="card mb-4">
       <div class="d-flex justify-content-center align-items-center py-3" :class="dark ? 'bg-dark' : 'bg-white'">
-        <img :src="'imgs/' + icon" :alt="title">
+        <img :src="'img/' + icon" :alt="title">
       </div>
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-center">

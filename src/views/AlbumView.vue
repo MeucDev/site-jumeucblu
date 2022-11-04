@@ -3,7 +3,7 @@
     <div class="bubbles"></div>
     <div class="content">
       <div class="cover">
-        <img alt="Capa Álbum Além de Mim" src="imgs/alem-de-mim.jpg" />
+        <img alt="Capa Álbum Além de Mim" src="img/alem-de-mim.jpg" />
         <h1>Além de Mim</h1>
       </div>
       <AlbumVolume

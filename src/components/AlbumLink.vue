@@ -1,5 +1,5 @@
 <template>
-  <a v-if="href" :href="href" target="_blank" :title="title"><img :src="'imgs/icon-' + icon + '.svg'" :alt="title" /></a>
+  <a v-if="href" :href="href" target="_blank" :title="title"><img :src="'img/icon-' + icon + '.svg'" :alt="title" /></a>
 </template>
 
 <script>

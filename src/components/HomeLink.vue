@@ -1,10 +1,10 @@
 <template>
   <a v-if="blank" class="link" :href="href" target="_blank">
-    <img :src="'imgs/' + icon + '.png'">
+    <img :src="'img/' + icon + '.png'">
     <span>{{ title }}</span>
   </a>
   <router-link v-if="!blank" class="link" :to="href">
-    <img :src="'imgs/' + icon + '.png'">
+    <img :src="'img/' + icon + '.png'">
     <span>{{ title }}</span>
   </router-link>
 </template>
