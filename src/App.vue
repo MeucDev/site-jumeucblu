@@ -3,7 +3,7 @@
 </template>
 
 <style lang="scss">
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
 
 /* CSS Reset - by https://dev.to/hankchizljaw/a-modern-css-reset-6p3 */
 
