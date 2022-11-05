@@ -2,14 +2,14 @@
   <div class="asset col-md-4">
     <div class="card mb-4">
       <div class="d-flex justify-content-center align-items-center py-3" :class="dark ? 'bg-dark' : 'bg-white'">
-        <img :src="'img/' + icon" :alt="title">
+        <img :src="'/img/' + icon" :alt="title">
       </div>
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-center">
           <h5 class="card-title my-auto">{{ title }}</h5>
           <div class="btn-group">
-            <a :href="'download/' + downloadLink + '.svg'" target="_blank" class="btn btn-sm btn-outline-secondary">SVG</a>
-            <a :href="'download/' + downloadLink + '.png'" target="_blank" class="btn btn-sm btn-outline-secondary">PNG</a>
+            <a :href="'/download/' + downloadLink + '.svg'" target="_blank" class="btn btn-sm btn-outline-secondary">SVG</a>
+            <a :href="'/download/' + downloadLink + '.png'" target="_blank" class="btn btn-sm btn-outline-secondary">PNG</a>
           </div>
         </div>
       </div>
