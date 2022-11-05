@@ -8,10 +8,10 @@
       </div>
       <AlbumVolume
         title="Playlist"
-        spotifyHref="https://open.spotify.com/album/0vd4KFioHaOnFb34WRrNZQ?si=kokLKU1iRI6EJDFcvdKKxw"
-        deezerHref="https://deezer.page.link/tepjmPNfaW534h2t9"
+        spotifyHref="https://open.spotify.com/playlist/3zdqUQE9EtkpjQZzG1DeUK?si=653d5130254b45dd"
+        deezerHref="https://deezer.page.link/veg26jLBph8upYxXA"
         youtubeHref="https://youtube.com/playlist?list=PLpBwWxqDK_6IYKGcgbeQVsccrB7vrxgxa"
-        appleMusicHref="https://music.apple.com/br/album/al%C3%A9m-de-mim-single/1599072393">
+        appleMusicHref="https://music.apple.com/br/album/al%C3%A9m-de-mim-vol-2-single/1652031113">
         <AlbumTrack
           title="Mais que Obedecer"
           writer="Ingmar S. Aguiar"
@@ -33,6 +33,27 @@
           deezerHref="https://deezer.page.link/1ZhGNTrKnLtAbxgD6"
           youtubeHref="https://youtu.be/UOY67TKmFNo"
           appleMusicHref="https://music.apple.com/br/album/justificados-pela-f%C3%A9/1599072393?i=1599072670"></AlbumTrack>
+        <AlbumTrack
+          title="Preço do Amor"
+          writer="Barbara K. Hamm"
+          spotifyHref="https://open.spotify.com/track/0piEn8vA5mOSjNpgeiaOzJ?si=d3aa1263fcd34fee"
+          deezerHref="https://deezer.page.link/GcSg5LJkv7yHzgp18"
+          youtubeHref="https://youtu.be/bJGV50zX_TE"
+          appleMusicHref="https://music.apple.com/br/album/pre%C3%A7o-do-amor/1652031113?i=1652031114"></AlbumTrack>
+        <AlbumTrack
+          title="Tudo em Tuas Mãos"
+          writer="Caroline H. Steinke"
+          spotifyHref="https://open.spotify.com/track/2ygz2pBDvjGcZ3McC1pW3g?si=6f09818aac084cb2"
+          deezerHref="https://deezer.page.link/3rpSfz2fzUn9CRhE9"
+          youtubeHref="https://youtu.be/pohWuqF_qiU"
+          appleMusicHref="https://music.apple.com/br/album/tudo-em-tuas-m%C3%A3os/1652031113?i=1652031116"></AlbumTrack>
+        <AlbumTrack
+          title="Hoje Eu Sou Livre"
+          writer="Bruna Metzger"
+          spotifyHref="https://open.spotify.com/track/1fFNIp1xrWq3CME0DwERcJ?si=8d23c63698e94a62"
+          deezerHref="https://deezer.page.link/Bg5Z979tSKtSm26z9"
+          youtubeHref="https://youtu.be/dh4kiJUDM3k"
+          appleMusicHref="https://music.apple.com/br/album/hoje-eu-sou-livre/1652031113?i=1652031131"></AlbumTrack>
       </AlbumVolume>
       <img class="logo" alt="JumeucBlu" src="../assets/logo_branco.svg" />
     </div>
