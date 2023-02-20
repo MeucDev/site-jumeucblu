@@ -54,6 +54,12 @@
           deezerHref="https://deezer.page.link/Bg5Z979tSKtSm26z9"
           youtubeHref="https://youtu.be/dh4kiJUDM3k"
           appleMusicHref="https://music.apple.com/br/album/hoje-eu-sou-livre/1652031113?i=1652031131"></AlbumTrack>
+        <AlbumTrack
+          title="O Amor de Deus"
+          writer="Ingmar S. Aguiar"
+          spotifyHref="https://open.spotify.com/track/4uoZjL0M0rEvBzEjeD2Dke?si=87f6a59e133b467b"
+          deezerHref="https://deezer.page.link/QGoVhYtJ13yW4ANx6"
+          youtubeHref="https://youtu.be/c8avBSlsW5o"></AlbumTrack>
       </AlbumVolume>
       <img class="logo" alt="JumeucBlu" src="../assets/logo_branco.svg" />
     </div>
