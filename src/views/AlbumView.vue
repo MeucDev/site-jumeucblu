@@ -59,7 +59,8 @@
           writer="Ingmar S. Aguiar"
           spotifyHref="https://open.spotify.com/track/4uoZjL0M0rEvBzEjeD2Dke?si=87f6a59e133b467b"
           deezerHref="https://deezer.page.link/QGoVhYtJ13yW4ANx6"
-          youtubeHref="https://youtu.be/c8avBSlsW5o"></AlbumTrack>
+          youtubeHref="https://youtu.be/c8avBSlsW5o"
+          appleMusicHref="https://music.apple.com/br/album/o-amor-de-deus/1675115057?i=1675115184"></AlbumTrack>
       </AlbumVolume>
       <img class="logo" alt="JumeucBlu" src="../assets/logo_branco.svg" />
     </div>
