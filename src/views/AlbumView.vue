@@ -18,49 +18,56 @@
           spotifyHref="https://open.spotify.com/track/7dGxutBJqXtBhwDblJfw9P?si=5750cfc3a954498e"
           deezerHref="https://deezer.page.link/hc711KiCJnULRDXu9"
           youtubeHref="https://youtu.be/5UevV0Ufz94"
-          appleMusicHref="https://music.apple.com/br/album/mais-que-obedecer/1599072393?i=1599072395"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/mais-que-obedecer/1599072393?i=1599072395"
+          pdf="./cifras/Mais que Obedecer.pdf"></AlbumTrack>
         <AlbumTrack
           title="Estar Preparado"
           writer="Cecília N. R. Rengel"
           spotifyHref="https://open.spotify.com/track/0P3qLxA4ewfkMBY5B1yzmU?si=29d6831fd9c74cfa"
           deezerHref="https://deezer.page.link/RS89QoyspQXrkH5F7"
           youtubeHref="https://youtu.be/EjR7DBEGEMA"
-          appleMusicHref="https://music.apple.com/br/album/estar-preparado/1599072393?i=1599072667"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/estar-preparado/1599072393?i=1599072667"
+          pdf="./cifras/Estar Preparado.pdf"></AlbumTrack>
         <AlbumTrack
           title="Justificados Pela Fé"
           writer="Dietmar Jung"
           spotifyHref="https://open.spotify.com/track/7LN8f2HnhJzLw69GwFmNx7?si=04b1a595a18941a3"
           deezerHref="https://deezer.page.link/1ZhGNTrKnLtAbxgD6"
           youtubeHref="https://youtu.be/UOY67TKmFNo"
-          appleMusicHref="https://music.apple.com/br/album/justificados-pela-f%C3%A9/1599072393?i=1599072670"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/justificados-pela-f%C3%A9/1599072393?i=1599072670"
+          pdf="./cifras/Justificados pela Fe.pdf"></AlbumTrack>
         <AlbumTrack
           title="Preço do Amor"
           writer="Barbara K. Hamm"
           spotifyHref="https://open.spotify.com/track/0piEn8vA5mOSjNpgeiaOzJ?si=d3aa1263fcd34fee"
           deezerHref="https://deezer.page.link/GcSg5LJkv7yHzgp18"
           youtubeHref="https://youtu.be/bJGV50zX_TE"
-          appleMusicHref="https://music.apple.com/br/album/pre%C3%A7o-do-amor/1652031113?i=1652031114"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/pre%C3%A7o-do-amor/1652031113?i=1652031114"
+          pdf="./cifras/Preco do Amor.pdf"></AlbumTrack>
         <AlbumTrack
           title="Tudo em Tuas Mãos"
           writer="Caroline H. Steinke"
           spotifyHref="https://open.spotify.com/track/2ygz2pBDvjGcZ3McC1pW3g?si=6f09818aac084cb2"
           deezerHref="https://deezer.page.link/3rpSfz2fzUn9CRhE9"
           youtubeHref="https://youtu.be/pohWuqF_qiU"
-          appleMusicHref="https://music.apple.com/br/album/tudo-em-tuas-m%C3%A3os/1652031113?i=1652031116"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/tudo-em-tuas-m%C3%A3os/1652031113?i=1652031116"
+          pdf="./cifras/Tudo em Tuas Maos.pdf"></AlbumTrack>
         <AlbumTrack
           title="Hoje Eu Sou Livre"
-          writer="Bruna Metzger"
+          writer="Bruna M. M. M. Robles"
           spotifyHref="https://open.spotify.com/track/1fFNIp1xrWq3CME0DwERcJ?si=8d23c63698e94a62"
           deezerHref="https://deezer.page.link/Bg5Z979tSKtSm26z9"
           youtubeHref="https://youtu.be/dh4kiJUDM3k"
-          appleMusicHref="https://music.apple.com/br/album/hoje-eu-sou-livre/1652031113?i=1652031131"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/hoje-eu-sou-livre/1652031113?i=1652031131"
+          pdf="./cifras/Hoje Sou Livre.pdf"></AlbumTrack>
         <AlbumTrack
           title="O Amor de Deus"
           writer="Ingmar S. Aguiar"
           spotifyHref="https://open.spotify.com/track/4uoZjL0M0rEvBzEjeD2Dke?si=87f6a59e133b467b"
           deezerHref="https://deezer.page.link/QGoVhYtJ13yW4ANx6"
           youtubeHref="https://youtu.be/c8avBSlsW5o"
-          appleMusicHref="https://music.apple.com/br/album/o-amor-de-deus/1675115057?i=1675115184"></AlbumTrack>
+          appleMusicHref="https://music.apple.com/br/album/o-amor-de-deus/1675115057?i=1675115184"
+          pdf="./cifras/O Amor de Deus.pdf"></AlbumTrack>
       </AlbumVolume>
       <img class="logo" alt="JumeucBlu" src="../assets/logo_branco.svg" />
     </div>
