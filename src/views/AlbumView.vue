@@ -9,33 +9,33 @@
       <AlbumVolume
         title="Playlist"
         spotifyHref="https://open.spotify.com/playlist/3zdqUQE9EtkpjQZzG1DeUK?si=653d5130254b45dd"
-        deezerHref="https://deezer.page.link/veg26jLBph8upYxXA"
+        deezerHref="https://www.deezer.com/br/album/455901775?deferredFl=1"
         youtubeHref="https://youtube.com/playlist?list=PLpBwWxqDK_6IYKGcgbeQVsccrB7vrxgxa"
-        appleMusicHref="https://music.apple.com/br/album/al%C3%A9m-de-mim-vol-2-single/1652031113">
+        appleMusicHref="https://music.apple.com/br/album/al%C3%A9m-de-mim-vol-3-single/1693629386">
         <AlbumTrack
-          title="Mais que Obedecer"
-          writer="Ingmar S. Aguiar"
-          spotifyHref="https://open.spotify.com/track/7dGxutBJqXtBhwDblJfw9P?si=5750cfc3a954498e"
-          deezerHref="https://deezer.page.link/hc711KiCJnULRDXu9"
-          youtubeHref="https://youtu.be/5UevV0Ufz94"
-          appleMusicHref="https://music.apple.com/br/album/mais-que-obedecer/1599072393?i=1599072395"
-          pdf="./cifras/Mais que Obedecer.pdf"></AlbumTrack>
+          title="Além de Mim Mesmo"
+          writer="David A. Kepler"
+          spotifyHref="https://open.spotify.com/track/6uJ3yvzJuZXwfuBILy9wuR?si=10e6143d63bc4ea3"
+          deezerHref="https://deezer.page.link/fkhQhi2Q4vyeVWhMA"
+          youtubeHref="https://youtu.be/vOTzrx_8LD4"
+          appleMusicHref="https://music.apple.com/br/album/al%C3%A9m-de-mim-mesmo/1693629386?i=1693629401"
+          pdf="./cifras/Alem de Mim Mesmo.pdf"></AlbumTrack>
         <AlbumTrack
-          title="Estar Preparado"
-          writer="Cecília N. R. Rengel"
-          spotifyHref="https://open.spotify.com/track/0P3qLxA4ewfkMBY5B1yzmU?si=29d6831fd9c74cfa"
-          deezerHref="https://deezer.page.link/RS89QoyspQXrkH5F7"
-          youtubeHref="https://youtu.be/EjR7DBEGEMA"
-          appleMusicHref="https://music.apple.com/br/album/estar-preparado/1599072393?i=1599072667"
-          pdf="./cifras/Estar Preparado.pdf"></AlbumTrack>
+          title="Salmo 14"
+          writer="Gilvane C. Persuhn"
+          spotifyHref="https://open.spotify.com/track/4SYk3Ed1QsdDZEXLc65nQz?si=f981d71a23ed467c"
+          deezerHref="https://deezer.page.link/5iwbKbwrbCy8YeWX8"
+          youtubeHref="https://youtu.be/QGIrWvYwHQ0"
+          appleMusicHref="https://music.apple.com/br/album/salmo-14/1693629386?i=1693629557"
+          pdf="./cifras/Salmo 14.pdf"></AlbumTrack>
         <AlbumTrack
-          title="Justificados Pela Fé"
+          title="Agentes de Reconciliação"
           writer="Dietmar Jung"
-          spotifyHref="https://open.spotify.com/track/7LN8f2HnhJzLw69GwFmNx7?si=04b1a595a18941a3"
-          deezerHref="https://deezer.page.link/1ZhGNTrKnLtAbxgD6"
-          youtubeHref="https://youtu.be/UOY67TKmFNo"
-          appleMusicHref="https://music.apple.com/br/album/justificados-pela-f%C3%A9/1599072393?i=1599072670"
-          pdf="./cifras/Justificados pela Fe.pdf"></AlbumTrack>
+          spotifyHref="https://open.spotify.com/track/3U5TFZBOInM6f9AU09SbTE?si=86bd1254e95c4d51"
+          deezerHref="https://deezer.page.link/PUKV4xxipagUTh3W8"
+          youtubeHref="https://youtu.be/b_L5Ukx0ZXY"
+          appleMusicHref="https://music.apple.com/br/album/agentes-de-reconcilia%C3%A7%C3%A3o/1693629386?i=1693629564"
+          pdf="./cifras/Agentes de Reconciliacao.pdf"></AlbumTrack>
         <AlbumTrack
           title="Preço do Amor"
           writer="Barbara K. Hamm"
@@ -68,6 +68,30 @@
           youtubeHref="https://youtu.be/c8avBSlsW5o"
           appleMusicHref="https://music.apple.com/br/album/o-amor-de-deus/1675115057?i=1675115184"
           pdf="./cifras/O Amor de Deus.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Mais que Obedecer"
+          writer="Ingmar S. Aguiar"
+          spotifyHref="https://open.spotify.com/track/7dGxutBJqXtBhwDblJfw9P?si=5750cfc3a954498e"
+          deezerHref="https://deezer.page.link/hc711KiCJnULRDXu9"
+          youtubeHref="https://youtu.be/5UevV0Ufz94"
+          appleMusicHref="https://music.apple.com/br/album/mais-que-obedecer/1599072393?i=1599072395"
+          pdf="./cifras/Mais que Obedecer.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Estar Preparado"
+          writer="Cecília N. R. Rengel"
+          spotifyHref="https://open.spotify.com/track/0P3qLxA4ewfkMBY5B1yzmU?si=29d6831fd9c74cfa"
+          deezerHref="https://deezer.page.link/RS89QoyspQXrkH5F7"
+          youtubeHref="https://youtu.be/EjR7DBEGEMA"
+          appleMusicHref="https://music.apple.com/br/album/estar-preparado/1599072393?i=1599072667"
+          pdf="./cifras/Estar Preparado.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Justificados Pela Fé"
+          writer="Dietmar Jung"
+          spotifyHref="https://open.spotify.com/track/7LN8f2HnhJzLw69GwFmNx7?si=04b1a595a18941a3"
+          deezerHref="https://deezer.page.link/1ZhGNTrKnLtAbxgD6"
+          youtubeHref="https://youtu.be/UOY67TKmFNo"
+          appleMusicHref="https://music.apple.com/br/album/justificados-pela-f%C3%A9/1599072393?i=1599072670"
+          pdf="./cifras/Justificados pela Fe.pdf"></AlbumTrack>
       </AlbumVolume>
       <img class="logo" alt="JumeucBlu" src="../assets/logo_branco.svg" />
     </div>
