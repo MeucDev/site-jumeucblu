@@ -92,6 +92,14 @@
           youtubeHref="https://youtu.be/UOY67TKmFNo"
           appleMusicHref="https://music.apple.com/br/album/justificados-pela-f%C3%A9/1599072393?i=1599072670"
           pdf="./cifras/Justificados pela Fe.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Existência"
+          writer="Ester S. Rowe"
+          spotifyHref="https://open.spotify.com/intl-pt/track/0B7WibbRLvXdFZVeEI8JQZ?si=9227476fa7db48a7"
+          deezerHref="https://deezer.page.link/hd6fqQcH1T8tChAd8"
+          youtubeHref="https://youtu.be/B1Jb9fLGRFU"
+          appleMusicHref="https://music.apple.com/br/album/exist%C3%AAncia-single/1738052775"
+          pdf="./cifras/Existencia.pdf"></AlbumTrack>
       </AlbumVolume>
       <img class="logo" alt="JumeucBlu" src="../assets/logo_branco.svg" />
     </div>
