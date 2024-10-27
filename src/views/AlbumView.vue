@@ -13,6 +13,22 @@
         youtubeHref="https://youtube.com/playlist?list=PLpBwWxqDK_6IYKGcgbeQVsccrB7vrxgxa"
         appleMusicHref="https://music.apple.com/br/album/al%C3%A9m-de-mim-vol-3-single/1693629386">
         <AlbumTrack
+          title="Direção"
+          writer="Gilvane C. Persuhn"
+          spotifyHref="https://open.spotify.com/album/4VVhIl5B8TGy2hZ1QtLHlq?si=kcuXAUTjTdikc103w5WfrA"
+          deezerHref="https://deezer.page.link/ZMwiLouSXKyYHVsE7"
+          youtubeHref="https://youtu.be/Ixf8bhug5As"
+          appleMusicHref="https://music.apple.com/br/album/dire%C3%A7%C3%A3o-single/1775193152"
+          pdf="./cifras/Direcao.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Inconformados"
+          writer="Caio A. Mey"
+          spotifyHref="https://open.spotify.com/intl-pt/track/5vnuHM3Mm4eC8KFDvfBRgG?si=ecf44ab9f3374e0f"
+          deezerHref="https://deezer.page.link/qWU6svPhbAmEFuzj9"
+          youtubeHref="https://youtu.be/R48C591tqnQ"
+          appleMusicHref="https://music.apple.com/br/album/inconformados-single/1775188902"
+          pdf="./cifras/Inconformados.pdf"></AlbumTrack>
+        <AlbumTrack
           title="Além de Mim Mesmo"
           writer="David A. Kepler"
           spotifyHref="https://open.spotify.com/track/6uJ3yvzJuZXwfuBILy9wuR?si=10e6143d63bc4ea3"
